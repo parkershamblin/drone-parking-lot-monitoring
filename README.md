@@ -1,7 +1,3 @@
-
-
-![Difference between HEAD, Index, and Working Tree?](https://github.com/user-attachments/assets/5ac5e668-b2a4-4511-b821-ccd500db1c7b)
-
 # Drone Parking Lot Monitoring
 
 ## Overview
